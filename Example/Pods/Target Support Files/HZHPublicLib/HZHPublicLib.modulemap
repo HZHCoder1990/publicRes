@@ -1,0 +1,6 @@
+framework module HZHPublicLib {
+  umbrella header "HZHPublicLib-umbrella.h"
+
+  export *
+  module * { export * }
+}

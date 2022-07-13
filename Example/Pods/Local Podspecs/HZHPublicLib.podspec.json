@@ -1,0 +1,22 @@
+{
+  "name": "HZHPublicLib",
+  "version": "0.1.0",
+  "summary": "A short description of HZHPublicLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/HZHCoder1990/HZHPublicLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "HZHCoder1990": "wb_hunagzhihao02@meituan.com"
+  },
+  "source": {
+    "git": "https://github.com/HZHCoder1990/HZHPublicLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "HZHPublicLib/Classes/**/*"
+}
