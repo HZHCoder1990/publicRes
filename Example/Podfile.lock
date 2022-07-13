@@ -8,20 +8,18 @@ PODS:
 
 DEPENDENCIES:
   - FBSnapshotTestCase
-  - HZHPublicLib (from `../`)
+  - HZHPublicLib
 
 SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - HZHPublicLib
   trunk:
     - FBSnapshotTestCase
 
-EXTERNAL SOURCES:
-  HZHPublicLib:
-    :path: "../"
-
 SPEC CHECKSUMS:
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
-  HZHPublicLib: 9b9563d74be499552d9cd5f7406e7b4f15723c50
+  HZHPublicLib: 720b8386785b4c7cade6a2cf2b6d9af518477b11
 
-PODFILE CHECKSUM: 2cf41a6c513eb351d19ed69bc8ae859359c07040
+PODFILE CHECKSUM: 0325e8ea20b8bcb96cb59c99c1a81e6e374f735a
 
 COCOAPODS: 1.10.1

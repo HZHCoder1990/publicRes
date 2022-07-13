@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "Component.h"
 
 FOUNDATION_EXPORT double HZHPublicLibVersionNumber;
 FOUNDATION_EXPORT const unsigned char HZHPublicLibVersionString[];
