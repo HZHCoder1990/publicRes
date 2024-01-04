@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'HZHPublicLib'
-  s.version          = '0.1.1'
+  s.version          = '0.1.2'
   s.summary          = '这是一个简单的说明~'
 
   s.description      = <<-DESC
@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
   s.author           = { 'HZHCoder1990' => 'wb_hunagzhihao02@meituan.com' }
   s.source           = { :git => 'https://github.com/HZHCoder1990/publicRes.git', :tag => s.version.to_s }
 
-  s.ios.deployment_target = '10.0'
+  s.ios.deployment_target = '11.0'
 
   s.source_files = 'HZHPublicLib/Classes/**/*'
   
