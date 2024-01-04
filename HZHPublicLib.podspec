@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'HZHPublicLib'
-  s.version          = '0.1.3'
+  s.version          = '0.1.4'
   s.summary          = '这是一个简单的说明~'
 
   s.description      = <<-DESC
